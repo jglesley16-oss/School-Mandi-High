@@ -1,5 +1,5 @@
 # School-Mandi-High
-ISO229 Web Design Assignment 2
+## ISO229 Web Design Assignment 2
 
 The Website consist of a Home, About, and Contact pages with a responsive design
 
